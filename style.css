@@ -1,0 +1,25 @@
+h2 {
+    background-color: white;
+    color: powderblue;
+}
+.heading {
+    background-color: lightgrey;
+}
+#back {
+    background-color: lightblue;
+}
+#contents {
+    background-color:lightskyblue;
+}
+.text{
+    color: lightcyan;
+
+}
+.heading {
+    text-align:center
+}
+header {
+    color: red
+    font-size:20px;
+    font-family:fantasy;
+}
